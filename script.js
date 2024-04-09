@@ -69,6 +69,6 @@ function popupFunction(bookModal) {
   }
 
   // Function to redirect to a different URL (index1.html#)
-  function myFunction() {
-    location.replace("http://127.0.0.1:5500/index1.html#")
-  }
+  // function myFunction() {
+  //   location.replace("http://127.0.0.1:5500/index1.html#")
+  // }
